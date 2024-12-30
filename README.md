@@ -1,6 +1,8 @@
-# Flutter Chart Series Customization
+# How to render a bullet graph chart by using the Flutter Column Chart
 
 This repository contains a sample that demonstrates the array of options for how to render a bullet graph chart in Syncfusion Charts package.
+
+Please refer to the blog through this [link](https://www.syncfusion.com/blogs/post/create-bullet-graph-flutter-charts).
 
 ## Syncfusion controls:
 
